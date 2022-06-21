@@ -1,0 +1,6 @@
+Version=3.93
+Account=raditplers1
+Password=raditplers112*
+Gmail=ajcbshu1663
+START_ACC=1
+START_GMAIL=1
